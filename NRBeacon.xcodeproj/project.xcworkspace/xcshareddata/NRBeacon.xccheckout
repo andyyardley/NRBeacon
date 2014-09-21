@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3E739D4B-30E3-4DEF-857F-02F1F22B0499</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NRBeacon</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9BEB2F5BF6F5D99DACBED449E850D5248012FFED</key>
+		<string>github.com:andyyardley/NRBeacon.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NRBeacon.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9BEB2F5BF6F5D99DACBED449E850D5248012FFED</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:andyyardley/NRBeacon.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9BEB2F5BF6F5D99DACBED449E850D5248012FFED</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9BEB2F5BF6F5D99DACBED449E850D5248012FFED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NRBeacon</string>
+		</dict>
+	</array>
+</dict>
+</plist>
